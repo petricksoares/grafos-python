@@ -6,7 +6,7 @@ em um mapa de estradas ou o tempo de transmissão em uma rede de computadores.
 O código permite a construção dessa rede através de operações básicas: a criação de vértices (os pontos ou locais, como cidades) e a adição de arestas
 (as ligações entre esses pontos, com um peso que representa o custo ou a distância). No entanto, o ponto alto do projeto e sua principal funcionalidade avançada é a aplicação do Algoritmo de Dijkstra.
 
-## * Problema e Solução
+## Problema e Solução
 ### Problema:
 O problema consiste em representar um conjunto de cidades (vértices) e suas conexões (arestas) com distâncias (pesos) entre elas, de forma a permitir a manipulação dinâmica da estrutura.
 Isso inclui operações básicas como adicionar e remover vértices e arestas, além de uma operação avançada para calcular a rota mais curta entre duas cidades. A representação deve ser eficiente e
