@@ -26,7 +26,7 @@ O desenvolvimento foi realizado no VS Code, mas qualquer ambiente compatível co
 Após clonar, você deve manter os arquivos organizados em pastas separadas (por exemplo: grafos.py e main.py), 
 garantindo que ambos estejam no mesmo diretório para que o programa funcione. Em seguida, é possível rodar o código diretamente pela IDE.
 ### Clonar o repositório
-Abra o terminal e execute: git clone https://github.com/SEU-USUARIO/seu-repositorio.git
+Abra o terminal e execute: git clone https://github.com/petricksoares/grafos-python.git
 ### Abrir o projeto na IDE
 * PyCharm
 * VSCode (IDE utilizada no desenvolvimento)
