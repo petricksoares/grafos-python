@@ -1,6 +1,5 @@
 from grafos import Grafo
-import heapq   # vou usar isso no Dijkstra para a fila de prioridade
-
+import heapq   
 # Criando o grafo
 g = Grafo()
 
@@ -19,8 +18,7 @@ g.adicionar_aresta("Curitiba", "Rio de Janeiro", 840)
 # Exibindo o grafo
 g.exibir()
 
-# Testando o Dijkstra
 caminho, distancia = g.menor_caminho("Curitiba", "Belo Horizonte")
 print("Menor caminho:", caminho)
 print("Distância total:", distancia, "km")
-import heapq   # vou usar isso no Dijkstra para a fila de prioridade
+import heapq   
